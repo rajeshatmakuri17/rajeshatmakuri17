@@ -1,15 +1,18 @@
 # Hi, I'm Rajesh Atmakuri 👋
 
 🎓 MS in Business Analytics @ University of North Texas (Data Science track) — graduating May 2027
-💼 Ex-Oracle DBA at Tata Consultancy Services (2 yrs) — now building toward GenAI engineering
-🤖 Building LLM-powered apps: RAG, prompt engineering, and data pipelines on top of a DBA's instinct for clean, reliable data
+💼 Ex-Oracle DBA at Tata Consultancy Services (2 yrs) — now building GenAI apps and Snowflake data pipelines
+🤖 Building LLM-powered apps: RAG, prompt engineering, and Snowflake data pipelines on top of a DBA's instinct for clean, reliable data
 
 ## 🌱 Currently learning
 - Introduction to Python on DataCamp
 - Next: Associate AI Engineer for Developers track (OpenAI API, LangChain, RAG, Hugging Face, Pinecone)
 
 ## 🛠️ Tools & skills
-Python · SQL · Git & GitHub · Oracle Database · Microsoft Azure · Snowflake · scikit-learn · Jupyter · Tableau
+Python · SQL · Snowflake · Git & GitHub · Oracle Database · Microsoft Azure · scikit-learn · Jupyter · Tableau
+
+## 🏅 Certifications
+Snowflake Data Engineering Professional · Google AI Professional Certificate · Microsoft Azure Fundamentals (AZ-900)
 
 ## 📌 Featured projects
 - [AI Resume Screening Assistant](https://github.com/rajeshatmakuri17/AI_Resume_Screening_Assistant) — AI-powered workflow automation for resume screening
